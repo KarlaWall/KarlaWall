@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @KarlaWall
+ 👋 Hi, I’m @KarlaWall
+ 
+ I'm currently studing Psychological Methods MRes at the University of Sussex.
 
 <!---
 KarlaWall/KarlaWall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
